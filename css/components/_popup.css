@@ -1,0 +1,11 @@
+.popup {
+  background: rgba(0, 0, 0, 0.6);
+  position: fixed;
+  top: 0;
+  width: 80%;
+  left: 0;
+  height: 100%;
+  z-index: 9; }
+  .popup__content {
+    background: pink;
+    height: 80vh; }
